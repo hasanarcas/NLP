@@ -1,0 +1,26 @@
+{"intents": [
+    {"tag": "greetings",
+    "patterns": ["hello", "hey", "hi", "good day", "Greetings", "what's up?", "how is it going?"],
+    "responses": ["Hello! ", "Hey!", "What can I do for you?"]
+    },
+    {"tag": "goodbye",
+    "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day", "bye", "cao", "see ya"],
+    "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!"]
+    },
+    {"tag": "age",
+    "patterns": ["how old", "how old is Hasan", "what is your age", "how old are you", "age?"],
+    "responses": ["My owner Hasan is 23 years old! ", "23 years!"]
+    },
+    {"tag": "name",
+    "patterns": ["what is your name", "what should I call you", "whats your name?", "who are you?", "Can you tell me your name?"],
+    "responses": ["You can call me Sativa !.", "I'm Sativa! " , "I'm Sativa the assistant of Hasan!"]
+    },
+    {"tag": "shop",
+    "patterns": ["Id like to buy something", "what are your products?", "what do you recommend?", "What are you selling?", "what do you sell?"],
+    "responses": ["Look at my name and you will know what I sell! ", "I sell happyness!", "I sell therapy!"]
+    },
+    {"tag": "hours",
+    "patterns": ["when are you guys open?", "what are your hours?", "what are your opening hours?", "what time do you open?", "what time do you close?"],
+    "responses": ["24/7", "We are open 24/7!"]
+    }
+]}
