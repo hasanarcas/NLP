@@ -1,0 +1,59 @@
+{
+    "intents":[
+        {
+            "tag": "flu",
+            "symptoms": ["fever", "chills", "cough", "sore throat", "runny or stuffy nose", "muscle or body aches", "headaches", "fatigue", "nausea", "vomiting", "diarrhea", "you may also experience a mild headache, body aches or a low grade fever. typically, a cold lasts 2-14 days.", "flu symptoms come on very quickly and can include: a sudden high temperature, an aching body, feeling tired or exhausted, a dry cough, a sore throat, a headache, difficulty sleeping, loss of appetite, diarrhea or tummy pain, feeling sick and being sick"],
+            "response": ["You may have the flu. Please see a doctor."]
+        },
+        {
+            "tag": "conjunctivitis",
+            "symptoms": ["eye redness", "eye itching", "eye tearing", "eye burning", "crusting of the eyelids", "conjunctivitis, an inflammation of the transparent membrane (conjunctiva) that lines your eyelids and part of your eyeballs, has several possible causes it could be a bacterial or viral infection, an allergic reaction to pollen or animal dander, or a result of chemical irritants (smoke, chlorine, lens solution, etc.).", "these symptoms may last a few hours to several weeks: redness, itching, tearing, burning sensation, pus-like discharge and/or crusting of the eyelids. because conjunctivitis causes inflammation of the small blood vessels in the conjunctiva to become more prominent, the whites of your eyes will appear pink or red. When you wake you are likely to feel that your eyelids are pasted shut, and your vision may not be as clear as usual."],
+            "response": ["You may have conjunctivitis. Please see a doctor."]
+        },
+        {
+            "tag": "diarrhea",
+            "symptoms": ["watery stools", "loose stools", "frequent bowel movements", "cramping or pain in the abdomen", "nausea", "bloating","possibly fever or bloody stools, depending on the cause", "pain in the tum, cramps, bloating, nausea, and vomiting. you may also have a fever and bloody stools, depending on the cause.", "bacterial infection, caused by contaminated food or water", "viral infection", "parasites, which can enter the body through food or water", "food intolerance, such as the inability to digest lactose, the sugar in milk", "overuse of alcohol or laxatives", "medication, such as some antibiotics or antacids containing magnesium", "menstrual cramps", "stress or a panic attack"],
+            "response": ["You may have diarrhea. Please see a doctor."]
+        },
+        {
+            "tag": "acute pancreatitis",
+            "symptoms": ["the main symptom of acute pancreatitis is a severe, dull pain around the top of your stomach that develops suddenly", "nausea", "vomiting", "diarrhea", "indigestion", "fever", "jaundice", "the pain may spread to your back and become worse after eating", "the pain may be so severe that you can't sit still", "you may also have a fever, nausea, vomiting, diarrhea, indigestion, and jaundice (yellowing of the skin and eyes)", "tenderness or swelling of the abdomen (tummy)"],
+            "response": ["You may have acute pancreatitis. Please see a doctor."]
+        },
+        {
+            "tag": "allergies",
+            "symptoms": ["sneezing", "a runny or blocked nose", "red, itchy watery eyes", "wheezing and coughing", "a red, itchy rash", "worsening of asthma or eczema symptoms", "symptoms of an allergic reaction usually develop within a few minutes of being exposed to something you're allergic to, although occasionally they can develop gradually over a few hours"],
+            "response": ["You may have allergies. Please see a doctor."]
+        },
+        {
+            "tag": "alzheimers",
+            "symptoms": ["forget about recent conversations or events, or misplace items", "forget the names of places and objects, or have trouble thinking of the right word", "repeat themselves regularly, such as asking the same question several times", "show poor judgement or find it harder to make decisions", "become less flexible and more hesitant to try new things", "increasing confusion and disorientation – for example, getting lost, or wandering and not knowing what time of day it is", "obsessive, repetitive or impulsive behaviour", "delusions (believing things that are untrue) or feeling paranoid and suspicious about carers or family members", "problems with speech or language (aphasia)", "changes in mood, such as frequent mood swings, depression and feeling increasingly anxious, frustrated or agitated", "hallucinations"],
+            "response": ["You may have alzheimers. Please see a doctor."]
+        },
+        {
+            "tag": "appendicitis",
+            "symptoms": ["pain in the lower right side of your abdomen", "pain that starts near your belly button and moves to the lower right side of your abdomen", "pain that gets worse when you cough or move", "nausea", "vomiting", "loss of appetite", "fever"],
+            "response": ["You may have appendicitis. Please see a doctor."]
+        },
+        {
+            "tag": "atopic eczema",
+            "symptoms": ["atopic eczema causes areas of skin to become itchy, dry, cracked, sore and red", "atopic eczema can occur all over the body, but is most common on the hands (especially fingers), the insides of the elbows or backs of the knees, and the face and scalp in children. the face is more commonly involved in adults", "people with mild eczema may only have small areas of dry skin that are occasionally itchy", "widespread red, inflamed skin all over the body and constant itching"],
+            "response": ["You may have atopic eczema. Please see a doctor."]
+        },
+        {
+            "tag": "attencion deficit hyperactivity disorder (adhd)",
+            "symptoms": ["inattentiveness", "hyperactivity and impulsiveness", "having a short attention span and being easily distracted","making careless mistakes – for example, in schoolwork","appearing forgetful or losing things","being unable to stick at tasks that are tedious or time-consuming","appearing to be unable to listen to or carry out instructions","constantly changing activity or task","having difficulty organising tasks", "being unable to wait their turn","acting without thinking", "being unable to sit still"],
+            "response": ["You may have attencion deficit hyperactivity disorder (adhd). Please see a doctor."]
+        },
+        {
+            "tag": "chickenpox",
+            "symptoms": ["symptom is a spotty, blistering red rash that can cover the entire body","The spots normally appear in clusters and tend to be in behind the ears, on the face, over the scalp, on the chest and belly, on the arm and the legs","although the rash starts as small, itchy red spots, these develop a blister on top and become intensely itchy after about 12-14 hours"],
+            "response": ["You may have chickenpox. Please see a doctor."]
+        },
+        {
+            "tag": "Corona Virus",
+            "symptoms": ["fever", "dry cough", "tiredness", "difficulty breathing", "aches and pains", "sore throat", "diarrhoea", "conjunctivitis", "headache", "loss of taste or smell", "a rash on skin, or discolouration of fingers or toes", "a high temperature", "a new, continuous cough", "a loss or change to your sense of smell or taste"],
+            "response": ["You may have Corona Virus. Please see a doctor."]
+        }
+    ]
+}
